@@ -49,7 +49,7 @@ mongoengine==0.15.3
 nbconvert==5.4.0
 nbformat==4.4.0
 normality==0.6.1
-notebook==5.7.0
+notebook==6.1.5
 numpy==1.15.1
 opencv-python==3.4.3.18
 pandas==0.23.4
